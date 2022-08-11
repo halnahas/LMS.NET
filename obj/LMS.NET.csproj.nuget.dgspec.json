@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/huzaifa/myFolder/code/LMS.NET/LMS.NET.csproj": {}
+  },
+  "projects": {
+    "/home/huzaifa/myFolder/code/LMS.NET/LMS.NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/huzaifa/myFolder/code/LMS.NET/LMS.NET.csproj",
+        "projectName": "LMS.NET",
+        "projectPath": "/home/huzaifa/myFolder/code/LMS.NET/LMS.NET.csproj",
+        "packagesPath": "/home/huzaifa/.nuget/packages/",
+        "outputPath": "/home/huzaifa/myFolder/code/LMS.NET/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/huzaifa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
